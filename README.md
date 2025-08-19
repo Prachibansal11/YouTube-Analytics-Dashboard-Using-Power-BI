@@ -1,4 +1,5 @@
 # 📺 YouTube  Analytics Dashboard
+![Banner](https://raw.githubusercontent.com/Prachibansal11/YouTube-Analytics-Dashboard-Using-Power-BI/4ce0e51a581373d0f74d80121900471dff7a4e80/youtube%20image.jpg)
 
 This project is a real-world, end-to-end data analytics solution that analyzes the **Top 100 Global YouTube Channels** using a combination of **Python** and **Power BI**.
 
